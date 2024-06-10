@@ -60,76 +60,60 @@ public class Developer extends SoftwareDeveloper {
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/)
-[![My Skills](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://www.python.org/)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <hr>
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=markdown)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=spring)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=azure)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=npm)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=powershell)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=ai)](https://www.w3schools.com/c/index.php)
-[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://www.w3schools.com/c/index.php)
-
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Json](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 <hr>
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://www.postgresql.org/)
+![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <hr>
 
 ### Operating Systems
 
-[![My Skills](https://skillicons.dev/icons?i=kali)](https://www.postgresql.org/)
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://www.postgresql.org/)
-[![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://www.postgresql.org/)
-[![My Skills](https://skillicons.dev/icons?i=windows)](https://www.postgresql.org/)
-  
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <hr>
 
 ### Ide
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://www.mysql.com/)
-[![My Skills](https://skillicons.dev/icons?i=sublime)](https://www.mysql.com/)
-[![My Skills](https://skillicons.dev/icons?i=visualestudio)](https://www.mysql.com/)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://www.mysql.com/)
-<hr>
-
-
-
-
+![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual-studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Sublime-text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![Visual-studio-code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <hr>
 
 ### Projects
-  <a href="https://github.com/m4lcom/agenda-python">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=agenda-python&theme=tokyonight" />
-  </a>
+
+![###](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=agenda-python&theme=tokyonight)
+![###](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=supermarketWeb&theme=tokyonight)
 
 <hr>
 
 ### Stats
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4lcom&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4lcom&theme=github_dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4lcom&layout=compact&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4lcom&layout=compact&theme=tokyonigth"/>
 
 
 |                                                                     Vishal's Stats                                                                     |
@@ -144,12 +128,27 @@ public class Developer extends SoftwareDeveloper {
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
 
 
+
+
 ### Certifications
 <hr>
 
 ### Connect with Me
-
 <hr>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.w3schools.com/c/index.php)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin]()
+[![Linkedin]()
+[![Linkedin]()
+[![Linkedin]()
+[![Linkedin]()
+[![Linkedin]()
+
+[![]()
+
+
 <hr>
 <hr>
 <hr>
