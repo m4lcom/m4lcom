@@ -105,46 +105,29 @@ public class Developer extends SoftwareDeveloper {
 
 ### Projects
 
-![###](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=agenda-python&theme=tokyonight)
-![###](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=supermarketWeb&theme=tokyonight)
-
+![projects](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=agenda-python&theme=tokyonight)
+![projects](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=supermarketWeb&theme=tokyonight)
 <hr>
 
 ### Stats
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4lcom&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4lcom&layout=compact&theme=tokyonigth"/>
-
-
-|                                                                     Vishal's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=m4lcom&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=m4lcom&show_icons=true&theme=github_dark)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m4lcom&theme=algolia)                    | 
-    
-
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
-
-
-
+![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-streak-stats.herokuapp.com/?user=m4lcom&theme=tokyonight)
+![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=m4lcom&show_icons=true&theme=tokyonight)          
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m4lcom&theme=tokyonight)
+<hr>
 
 ### Certifications
+
+![certifications](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=certifications&theme=tokyonight)
 <hr>
 
 ### Connect with Me
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.w3schools.com/c/index.php)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <hr>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.w3schools.com/c/index.php)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-[![Linkedin]()
-[![Linkedin]()
-[![Linkedin]()
-[![Linkedin]()
-[![Linkedin]()
-[![Linkedin]()
 
 [![]()
 
