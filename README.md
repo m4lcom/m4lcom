@@ -1,4 +1,4 @@
-<!--```java
+```java
 import SoftwareDeveloper;
 
 // Class that represents a developer.
@@ -45,7 +45,7 @@ public class Developer extends SoftwareDeveloper {
         dev.languages();
     }
 }
-```-->
+```
 <hr>
 
 <details align="middle">    
@@ -104,50 +104,34 @@ public class Developer extends SoftwareDeveloper {
 <hr>
 
 ### Projects
+<br>
 
-![projects](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=agenda-python&theme=tokyonight)
+![projects](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=contactBook&theme=tokyonight)
 ![projects](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=supermarketWeb&theme=tokyonight)
 <hr>
 
 ### Stats
+<br>
   
 ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-streak-stats.herokuapp.com/?user=m4lcom&theme=tokyonight)
 ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=m4lcom&show_icons=true&theme=tokyonight)          
+<br>
+
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m4lcom&theme=tokyonight)
 <hr>
 
 ### Certifications
+<br>
 
 ![certifications](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=certifications&theme=tokyonight)
 <hr>
 
 ### Connect with Me
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.w3schools.com/c/index.php)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <hr>
-
-
-[![]()
-
-
-<hr>
-<hr>
-<hr>
-<hr>
-
-
-
-
-
-
-
-
-
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
- <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
 
 </details>
 
@@ -155,19 +139,3 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 
 developed by **[m4lcom](https://github.com/m4lcom)**
 
-  
-
-<!--
-**m4lcom/m4lcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
