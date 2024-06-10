@@ -46,17 +46,21 @@ public class Developer extends SoftwareDeveloper {
     }
 }
 ```
-<hr>
+
+---
 
 <details align="middle">    
 <summary>
     <h2>dev.run( );</h2>
 </summary>
-<hr>
+    
+---
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=AA47F7&center=true&random=false&width=578&lines=software+developer+student;web+developer;allways+learning+new+things)](https://git.io/typing-svg)
-<hr>
+
+---
 
 ### Programming Languages
 
@@ -65,7 +69,8 @@ public class Developer extends SoftwareDeveloper {
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<hr>
+
+---
 
 ### Skills
 
@@ -77,13 +82,15 @@ public class Developer extends SoftwareDeveloper {
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Json](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-<hr>
+
+---
 
 ### Databases
 
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-<hr>
+
+---
 
 ### Operating Systems
 
@@ -91,7 +98,8 @@ public class Developer extends SoftwareDeveloper {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-<hr>
+
+---
 
 ### Ide
 
@@ -101,14 +109,16 @@ public class Developer extends SoftwareDeveloper {
 ![Visual-studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Sublime-text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Visual-studio-code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-<hr>
+
+---
 
 ### Projects
 <br>
 
 ![projects](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=contactBook&theme=tokyonight)
 ![projects](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=supermarketWeb&theme=tokyonight)
-<hr>
+
+---
 
 ### Stats
 <br>
@@ -118,24 +128,26 @@ public class Developer extends SoftwareDeveloper {
 <br>
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m4lcom&theme=tokyonight)
-<hr>
+
+---
 
 ### Certifications
 <br>
 
 ![certifications](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=certifications&theme=tokyonight)
-<hr>
+
+---
 
 ### Connect with Me
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-<hr>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malcom.foca@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](www.discord.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/malcom-foca)
+
 
 </details>
 
-<hr>
+---
 
 developed by **[m4lcom](https://github.com/m4lcom)**
 
