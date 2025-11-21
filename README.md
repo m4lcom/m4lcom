@@ -1,48 +1,45 @@
-```java
-import SoftwareDeveloper;
+# 👨‍💻 Malcom Foca
 
-// Class that represents a developer.
-public class Developer extends SoftwareDeveloper {
+```csharp
+using System;
 
-    // Attributes
-    private String name = "malcom foca";
-    private Date born = 12/18/89;
-    private String nationality = "argentina";		
-    private String high school = "national technological university";
-    private String bio = "Developer passionate about technology and innovation.
-                          Interested in open source projects and always learning something new.";
+namespace Portfolio
+{
+    public class Developer
+    {
+        // --- Attributes ---
+        public string Name { get; } = "Malcom Foca";
+        public string Role { get; } = "Backend Developer (.NET)";
+        public string Location { get; } = "Rosario, Argentina";
+        public string University { get; } = "UTN Rosario";
+        public string Bio { get; } = "Specialized in .NET, RESTful APIs, Clean Architecture, and Microservices. Passionate about building scalable, audit-ready systems with CI/CD, Docker, and Azure.";
 
-    // Metods
-    public void develop(String lang) {
-        System.out.println("developing in " + lang);
-    }
+        // --- Methods ---
+        public void Develop(string lang) =>
+            Console.WriteLine($"Developing RESTful APIs and microservices in {lang} with CI/CD and Docker.");
 
-    public void solveProblems() {
-        System.out.println("solving problems efficiently.");
-    }
+        public void Optimize() =>
+            Console.WriteLine("Optimizing databases and workflows for performance and maintainability.");
 
-    public void collaborate() {
-        System.out.println("collaborating effectively in development teams.");
-    }
+        public void Automate() =>
+            Console.WriteLine("Automating deployments and documentation with CI/CD pipelines.");
 
-    public void learn() {
-        System.out.println("learning new technologies and best practices.");
-    }
+        public void Collaborate() =>
+            Console.WriteLine("Collaborating with teams through clear communication and reproducible processes.");
 
-    public void languages() {
-        System.out.println("languages spoken:");
-        System.out.println("spanish");
-        System.out.println("english");
-    }
+        public void Learn() =>
+            Console.WriteLine("Expanding skills in DevOps, cloud, and modern software engineering.");
 
-    // Main
-    public static void main(String[] args) {
-        Developer dev = new Developer();
-        dev.develop("Java");
-        dev.solveProblems();
-        dev.collaborate();
-        dev.learn();
-        dev.languages();
+
+        public static void Main(string[] args)
+        {
+            var dev = new Developer();
+            dev.Develop("C# / ASP.NET Core");
+            dev.Optimize();
+            dev.Automate();
+            dev.Collaborate();
+            dev.Learn();
+        }
     }
 }
 ```
@@ -58,13 +55,12 @@ public class Developer extends SoftwareDeveloper {
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=AA47F7&center=true&random=false&width=578&lines=software+developer+student;web+developer;allways+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=AA47F7&center=true&random=false&width=578&lines=Backend+Developer+(.NET);Clean+Architecture+&+Microservices;RESTful+APIs;CI/CD)](https://git.io/typing-svg)
 
 ---
 
 ### Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -76,17 +72,20 @@ public class Developer extends SoftwareDeveloper {
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-A020F0?style=for-the-badge&logo=githubactions&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Json](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 
 ---
 
 ### Databases
 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -103,18 +102,19 @@ public class Developer extends SoftwareDeveloper {
 
 ### Ide
 
+![Visual-studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Visual-studio-code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual-studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Sublime-text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-![Visual-studio-code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
 ### Projects
 <br>
 
+![projects](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=SmartWalletBackend&theme=tokyonight)
+![projects](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=ecommercePerfumesAPI&theme=tokyonight)
 ![projects](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=contactBook&theme=tokyonight)
 ![projects](https://github-readme-stats.vercel.app/api/pin/?username=m4lcom&repo=supermarketWeb&theme=tokyonight)
 
