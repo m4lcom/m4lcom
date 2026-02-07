@@ -44,7 +44,7 @@ graph TD;
 ---
 
 ## 📂 Repository Manifest
-### Nur - Aesthetic Center Platform
+### [Nur - Aesthetic Center Platform](https://github.com/m4lcom/aesthetic-center-front)
 - Role: `Fullstack Implementation` | Status: `Active Development` A modern web platform for an aesthetic clinic, focusing on UX and performance.
 
 - Frontend: Built with Next.js 15 and Tailwind CSS for a high-fidelity interface.
@@ -53,7 +53,7 @@ graph TD;
 
 - Stack: `Next.js` • `TypeScript` • `React` • `TailwindCSS`
 
-### SmartWalletBackend
+### [SmartWalletBackend](https://github.com/m4lcom/SmartWalletBackend)
 - Role: `Backend Developer` | Status: `Active` A digital banking ecosystem designed with Clean Architecture.
 
 - Logic: Implements complex transactional logic and security standards.
@@ -62,7 +62,7 @@ graph TD;
 
 - Stack: `.NET 8` • `CQRS` • `SQL Server` • `JWT`
 
-### EcommercePerfumesAPI
+### [EcommercePerfumesAPI](https://github.com/m4lcom/ecommercePerfumesAPI)
 - Role: `Backend Developer` | Status: `Stable` High-performance RESTful API applying Microservices concepts.
 
 - Infra: Containerized utilizing Docker for consistent environments.
