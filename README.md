@@ -1,5 +1,5 @@
 # Malcom Foca
-### `Backend Developer` & `Associate Degree in Programming`
+### `Backend Engineer` & `Associate Degree in Programming`
 > Based in Rosario, Argentina 🇦🇷
 
 _"Merging academic engineering with modern .NET development. Focused on Scalable Architecture, Infrastructure, and Clean Code."_
@@ -11,29 +11,37 @@ _"Merging academic engineering with modern .NET development. Focused on Scalable
 ```mermaid
 graph TD;
   %% Core Nodes
-  Core(Software Engineering)-->Infra(Infrastructure & OS);
-  Core-->Backend(Backend Architecture);
-  Core-->Method(Agile & Quality);
-
-  %% Infra
-  Infra-->Linux_Bash;
-  Infra-->Docker_Containers;
-  Infra-->Cloud_Concepts;
+  Core(Software Engineering)-->Backend(Advanced Backend);
+  Core-->Data(Data Engineering);
+  Core-->Ops(DevOps & Quality);
+  Core-->Sec(Security & Auth);
 
   %% Backend
-  Backend-->Microservices;
-  Backend-->Clean_Architecture;
-  Backend-->SQL_Optimization;
+  Backend-->Patterns(Design Patterns & DI);
+  Backend-->Architecture(Monolithic / Microservices);
+  Backend-->Logic(DDD / Business Logic / MVP);
 
-  %% Method
-  Method-->Scrum_Agile;
-  Method-->CI_CD_Pipelines;
-  Method-->Unit_Testing;
+  %% Data
+  Data-->SQL_Expertise(Subqueries / Triggers);
+  Data-->Optimization(Indexing / Query Performance);
 
-  %% Styling
-  style Core fill:#f9f,stroke:#333,stroke-width:2px
-  style Infra fill:#bbf,stroke:#333
-  style Backend fill:#bfb,stroke:#333
+  %% Ops & Quality
+  Ops-->Git_Flow(Git Strategies / CI-CD);
+  Ops-->Infra(Docker / Documentation);
+
+  %% Security & Auth
+  Sec-->JWT(JWT Implementation);
+  Sec-->Roles(Role-Based Access Control);
+  Sec-->Middleware(External Auth Services);
+
+  %% Styling - Tokyonight Palette
+  style Core fill:#7aa2f7,stroke:#333,stroke-width:2px,color:#fff
+  style Backend fill:#9ece6a,stroke:#333,color:#fff
+  style Data fill:#e0af68,stroke:#333,color:#fff
+  style Ops fill:#f7768e,stroke:#333,color:#fff
+  style Sec fill:#bb9af7,stroke:#333,color:#fff
+  
+  classDef default fill:#1a1b26,stroke:#565f89,color:#cfc9c2
 ```
 
 > 🛠 Tech Stack & Tools
