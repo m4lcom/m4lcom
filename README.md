@@ -1,17 +1,17 @@
 # **Malcom Foca**
-### `Backend Engineer`
+### `Backend Developer`
 > Based in Rosario, Argentina 
 
-_Merging academic engineering with modern .NET development. Focused on Scalable Architecture, Infrastructure, and Clean Code._
+_Merging academic foundations with modern .NET development. Focused on Scalable Architecture, Infrastructure, and Clean Code._
 
 ---
 
-## 🧠 Engineering Ecosystem
+## 🧠 Architectural Ecosystem
 
 ```mermaid
 graph TD;
   %% Core Nodes
-  Core(Software Engineering)-->Backend(Advanced Backend);
+  Core(Software Architecture)-->Backend(Advanced Backend);
   Core-->Data(Data Engineering);
   Core-->Ops(DevOps & Quality);
   Core-->Sec(Security & Auth);
@@ -28,6 +28,7 @@ graph TD;
   %% Ops & Quality
   Ops-->Git_Flow(GitHub Actions / CI-CD);
   Ops-->Infra(Docker & Docker Compose);
+  Ops-->Testing(Unit & Integration Testing / xUnit);
 
   %% Security & Auth
   Sec-->IAM(Identity & Access Management);
@@ -50,7 +51,7 @@ graph TD;
 
 ## 📂 Repository Manifest
 ### [AuthMotion - Enterprise IAM System](https://github.com/m4lcom/AuthMotion)
-- **Role:** `Lead Backend Engineer` | Status: `Production Ready`
+- **Role:** `Lead Backend Developer` | Status: `Production Ready`
 
 - A robust **Identity and Access Management** (IAM) API designed for high-security environments.
 
@@ -59,15 +60,6 @@ graph TD;
 - **Resilience:** Built-in `Rate Limiting` and Centralized Exception Handling (RFC 7807) under `Clean Architecture`.
 
 - **Stack:** `.NET 10` • `SQL Server 2025` • `Docker` • `xUnit` • `FluentValidation`
-
-### [Nur - Aesthetic Center Platform](https://github.com/m4lcom/aesthetic-center-front)
-- **Role:** `Fullstack Implementation` | Status: `Production` A modern web platform for an aesthetic clinic, focusing on UX and performance.
-
-- **Frontend:** Built with Next.js 15 and Tailwind CSS for a high-fidelity interface.
-
-- **Tech:** Component-based architecture and responsive design strategies.
-
-- **Stack:** `Next.js` • `TypeScript` • `React` • `TailwindCSS`
 
 ### [SmartWalletBackend](https://github.com/m4lcom/SmartWalletBackend)
 - **Role:** `Backend Developer` | Status: `Active` A digital banking ecosystem designed with Clean Architecture.
@@ -79,14 +71,23 @@ graph TD;
 - **Stack:** `.NET 8` • `CQRS` • `SQL Server` • `JWT`
 
 ### [EcommercePerfumesAPI](https://github.com/m4lcom/ecommercePerfumesAPI)
-- **Role:** `Backend Developer` | Status: `Stable` High-performance RESTful API applying Microservices concepts.
+- **Role:** `Backend Developer` | Status: `Stable` High-performance RESTful API applying Decoupled Architecture.
 
 - **Infra:** Containerized utilizing Docker for consistent environments.
 
 - **Data:** Optimized queries and relational modeling.
 
-- **Stack:** `ASP.NET Core` • `PostgreSQL` • `Docker` • `Linux Env`
+- **Stack:** `Node.Js` • `vite` • `PostgreSQL` • `Docker` • `Linux Env`
 
+### [Nur - Aesthetic Center Platform](https://github.com/m4lcom/aesthetic-center-front)
+- **Role:** `Fullstack Implementation` | Status: `Production` A modern web platform for an aesthetic clinic, focusing on UX and performance.
+
+- **Frontend:** Built with Next.js 15 and Tailwind CSS for a high-fidelity interface.
+
+- **Tech:** Component-based architecture and responsive design strategies.
+
+- **Stack:** `Next.js` • `TypeScript` • `React` • `TailwindCSS`
+  
 ---
 
 ### 📊 Technical Snapshot
